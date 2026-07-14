@@ -3,11 +3,11 @@ How to Fix Ancestry Sign In Not Working Issue
 
 Ancestry is a well-known genealogy platform that helps users explore family history, build family trees, discover historical records, and manage personal research. However, some users may face problems when trying to access their accounts and find that Ancestry Sign In Not Working properly.
 
-.. image:: https://img.shields.io/badge/Sign%20In%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+.. image:: https://img.shields.io/badge/Get%20Help-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
-   :target: https://aclogportal.net/
-   :alt: Login Now Button
+   :target: https://getchatsupport.net/
+   :alt: Get Help Button
 
 Login problems can happen for different reasons, such as incorrect account details, forgotten passwords, browser errors, outdated applications, internet connection problems, or temporary service interruptions. These issues can prevent users from viewing important family records and continuing their research.
 
